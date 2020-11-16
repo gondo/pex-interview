@@ -1,0 +1,5 @@
+!.gitkeep
+/.idea/
+/bin/
+/data/output*
+/vendor/
